@@ -55,7 +55,7 @@ td {
 	text-decoration: none;
 	text-transform: uppercase;
 	
-	display: inline-block;
+	display: none;
 	padding: 0.5em;
 }
 
@@ -82,3 +82,13 @@ input[type=button] {
 	margin: 2em 0;
 }
 
+.recuperado{
+	background: #E7D692;
+}
+
+.hovering{
+	background: #CCC;
+}
+#mostra-propagandas{
+	display: none;
+}
